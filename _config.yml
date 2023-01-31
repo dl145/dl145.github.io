@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello"
+title                    : "DL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "How y'all doing"
+name                     : "DL"
 description              : "An amazing website."
 url                      : "https://dl145.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Dominik"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Student"
-  location         : ""
+  bio              : #"Student"
+  location         : #""
   email            :
   links:
     - label: "Email"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/dl145"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
