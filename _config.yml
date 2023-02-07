@@ -125,9 +125,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dl145"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stackoverflow"
+      # url: "https://https://stackoverflow.com/users/17466543/nick"
 
 # Site Footer
 footer:
